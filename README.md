@@ -33,7 +33,7 @@ Para usar esta app, necesitarás [Git](https://git-scm.com), [Node.js](https://n
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/alextselegidis/easyappointments.git
+$ git clone https://github.com/RafaGrand/agendaImdri.git
 
 # Go into the repository
 $ cd easyappointments
